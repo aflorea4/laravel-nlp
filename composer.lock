@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f2c4c90b1d6ee3425d9645eab7d7b61d",
+    "content-hash": "76830cb8556c8e46170524630507ec90",
     "packages": [
         {
             "name": "aflorea4/php-nlp-client",
