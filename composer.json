@@ -17,16 +17,16 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Aflorea4\\LaravelNlp\\": "src"
+      "Web64\\LaravelNlp\\": "src"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Aflorea4\\LaravelNlp\\NlpServiceProvider"
+        "Web64\\LaravelNlp\\NlpServiceProvider"
       ],
       "aliases": {
-        "NLP": "Aflorea4\\LaravelNlp\\Facades\\Nlp"
+        "NLP": "Web64\\LaravelNlp\\Facades\\Nlp"
       }
     }
   }
